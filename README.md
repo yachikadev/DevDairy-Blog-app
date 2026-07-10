@@ -16,7 +16,7 @@
 - 🔍 Search functionality
 - 📱 Fully responsive design with Bootstrap 5
 - 🚫 "No results" page for empty searches
-- 🛡️ Login-protected post creation
+- 🛡️ Login-protected post creation 
 
 ---
 
